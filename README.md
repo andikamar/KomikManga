@@ -12,11 +12,11 @@ Dependency library yang digunakan:
 - Arclayout
 - Curvebottombar
 
-Berikut Fiturnya:
+Fitur:
 - Menampilkan Daftar Komik berdasarkan Page
 - Menampilkan Daftar Genre
 - Menampilkan Detail Komik
 - Menampilkan Menu Chapter yang berisi Gambar Komik
 
 Demo:
-https://drive.google.com/uc?export=download&id=1PSLm0cvARl_8a8Jhwws2C51Fy65kDJ2A
+ https://drive.google.com/uc?export=download&id=1PSLm0cvARl_8a8Jhwws2C51Fy65kDJ2A
