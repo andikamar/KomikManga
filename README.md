@@ -4,13 +4,13 @@ Komik Manga aplikasi membaca komik manga secara online, jadi pastikan ada koneks
 Komik Manga dibuat menggunakan bahasa java dan menggunakan FAN (Fast Android Networking) sebagai Rest API
 Sumber API https://github.com/febryardiansyah/manga-api
 
-Dependency library yang digunakan : 
--Cardview
--Recylerview
--Glide
--Cardslider
--Arclayout
--Curvebottombar
+Dependency library yang digunakan:
+- Cardview
+- Recylerview
+- Glide
+- Cardslider
+- Arclayout
+- Curvebottombar
 
 Berikut Fiturnya:
 - Menampilkan Daftar Komik berdasarkan Page
